@@ -6,6 +6,7 @@
 .jscsrc export-ignore
 .jshintignore export-ignore
 .travis.yml export-ignore
+.DS_Store export-ignore
 CONTRIBUTING.md export-ignore
 CONTRIBUTORS.md export-ignore
 codesniffer.ruleset.xml export-ignore
