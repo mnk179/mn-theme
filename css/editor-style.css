@@ -120,10 +120,6 @@ blockquote {
 	padding: 0 0 0 24px;
 }
 
-blockquote:not(.alignleft):not(.alignright) {
-	margin-left: -28px;
-}
-
 blockquote blockquote:not(.alignleft):not(.alignright) {
 	margin-left: 0;
 }
@@ -254,7 +250,6 @@ hr {
 ul,
 ol {
 	margin: 0 0 28px 0;
-	padding: 0;
 }
 
 ul {
