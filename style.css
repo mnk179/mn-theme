@@ -2893,27 +2893,6 @@ p > video {
 		width: calc(50% - 0.736842105em);
 	}
 
-	.entry-content blockquote:not(.alignleft):not(.alignright),
-	.entry-summary blockquote,
-	.comment-content blockquote {
-		margin-left: -1.473684211em;
-	}
-
-	.entry-content blockquote blockquote:not(.alignleft):not(.alignright),
-	.entry-summary blockquote blockquote,
-	.comment-content blockquote blockquote {
-		margin-left: 0;
-	}
-
-	.entry-content ul,
-	.entry-summary ul,
-	.comment-content ul,
-	.entry-content ol,
-	.entry-summary ol,
-	.comment-content ol {
-		margin-left: 0;
-	}
-
 	.entry-content li > ul,
 	.entry-summary li > ul,
 	.comment-content li > ul,
